@@ -1,0 +1,13 @@
+table{
+	border: 1px solid black;
+}
+td:hover{
+	backgroung-color: #e6e7eb;
+	font-weight: bold;
+}
+tr, th{
+	background-color: #45f77b;
+}
+tr, td{
+	background-color: #c6cfc9;
+}
